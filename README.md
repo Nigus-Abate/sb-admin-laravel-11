@@ -8,12 +8,12 @@ Find out more Free Laravel Themes at [DevEthio](https://devethio.com) devethio.c
 Clone this project or Download that ZIP file
 Make sure you have bower, gulp and npm installed globally
 On the command prompt run the following commands
-cd `project-directory`
-Set permission `777` for storage
-`composer install`
-`npm install`
-`bower install`
-`gulp watch`
-`php artisan cache:clear`
+- cd `project-directory`
+- Set permission `777` for storage
+- `composer install`
+- `npm install`
+- `bower install`
+- `gulp watch`
+- `php artisan cache:clear`
 # Automation tools
 [Gulp](https://gulpjs.com.com)
