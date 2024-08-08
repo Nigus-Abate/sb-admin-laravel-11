@@ -84,3 +84,9 @@ On the command prompt run the following commands
 - `php artisan cache:clear`
 # Automation tools
 [Gulp](https://gulpjs.com.com)
+# Screenshots
+
+![dashboard](https://github.com/user-attachments/assets/8a35954a-cc5d-425b-9e0d-e6a20fd8fc0c)
+
+![chart](https://github.com/user-attachments/assets/d6d03041-c7c6-4ece-8eb6-7071615baea5)
+![docs](https://github.com/user-attachments/assets/ede744cb-b407-4df7-bbdd-9cb310253a9a)
